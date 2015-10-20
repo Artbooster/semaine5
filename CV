@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<title></title>
+  </head>
+        <body>
+        <img src="http://img0.mxstatic.com/wallpapers/d73b9bf3926c2274e46847c2e8546202_large.jpeg">
+    <header>
+         <div id="header">  
+             <div class="conteneur"> 
+                     <h1> CV Manon Bourduge </h1> <h2> Chef de projet </h2>
+                     <img src="http://image-uniservice.copainsdavant.com/image/450/1954202521/11200714.jpg">
+                     </div>
+              </div>
+    </header>
+            
+    <main>
+         <div class="conteneur">
+         <h2> Formation </h2>
+                  <p> <ul>
+                      <li> <strong> Master Management des Activitées Culturelles et Artistiques  </strong> - INSEEC 2014</li> 
+                      <li> <strong> Licence de Médiaiton Culturelle </strong> - GROUPE EAC Promo 2012  </li> 
+                      </ul>
+                  </p>
+          <h2> Experiences Professionelles </h2>
+             <p> <ul> 
+                  <li> <strong> Juillet 2014 à Juillet 2015 </strong>
+                        Chef de Projet, Compagnie Riposte. http://d2kabal.com </li> 
+
+                  <li> <strong> Janvier 2014 à Juillet 2014 </strong> Administratrice, Compagnie Riposte. http://d2kabal.com 
+                  </li> 
+                   <li> <strong> Octobre 2013 à Mars 2014 </strong> 
+                  Chargé de Production & Communication, Association MACAASSO.
+                  </li> 
+                  <li> <strong> Novembre 2011 à Juin 2012 </strong>
+                  Chargé de Communication, Relation Presse & Relations Publiques, Agence d’évènementiel et Booking, Polywood.
+                  </li>
+                  <li> <strong> Décembre 2011 à Juin 2012 </strong> 
+                  Chargé de Communication, Relation Presse & Relations Publiques, Le CENTQUATRE, Etablissement Public de Coopération Culturelle, Paris. 
+                  </li>
+                 </ul> 
+              </p>
+            </div>
+     </main>
+    </div> 
+
+    <footer>
+   <div id="footer">
+         <div class="conteneur">	   
+        <h3> Contact </h3>
+            <p> manon.bourduge@gmail.com 0666392233 </p>   
+        </div>
+   </div> 
+    </footer>
+</body>
+</html>
